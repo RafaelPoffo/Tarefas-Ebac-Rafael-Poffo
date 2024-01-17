@@ -1,0 +1,9 @@
+1 - Ao acordar, abro os olhos;
+2 - Após desligar o despertador, desço para o térreo;
+3 - Após chegar à cozinha, faço café;
+4 - Após fazer o café, passo manteiga no pão;
+5 - Após passar manteiga no pão, como o pão e bebo o café;
+6 - Após comer o pão e beber o café, vou ao banheiro
+7 - Após chegar ao banheiro, escovo os dentes
+8 - Após escovar os dentes, vou ao quarto
+9 - Após chegar ao quarto, troco de roupa

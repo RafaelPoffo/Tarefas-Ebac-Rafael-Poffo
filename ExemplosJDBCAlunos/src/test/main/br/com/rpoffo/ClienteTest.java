@@ -13,9 +13,10 @@ import br.com.rpoffo.dao.ClienteDAO;
 import br.com.rpoffo.dao.IClienteDAO;
 import br.com.rpoffo.domain.Cliente;
 
-
+/**
+ * 
+ */
 public class ClienteTest {
-
 	@Test
 	public void cadastrarTest() throws Exception {
 		IClienteDAO dao = new ClienteDAO();
